@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: da3roqfxv
+  api_key: '359564543977993'
+  api_secret: "-l-fHrun4gXqlO7zxmt4HEkMbc0"
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: da3roqfxv
+  api_key: '359564543977993'
+  api_secret: "-l-fHrun4gXqlO7zxmt4HEkMbc0"
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: da3roqfxv
+  api_key: '359564543977993'
+  api_secret: "-l-fHrun4gXqlO7zxmt4HEkMbc0"
+  enhance_image_tag: true
+  static_image_support: false
